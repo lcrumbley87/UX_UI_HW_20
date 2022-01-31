@@ -1,8 +1,47 @@
  body {
+     font-family: fantasy;
 
  }
-.inline-block: display: 
+
+.navigation {
 
 
+}
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
 
 
+}
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+
+
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+
+
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+h1 {
+    font-family:'Times New Roman', Times, serif
+}
+footer {
+    background-color: #373738;
+}
